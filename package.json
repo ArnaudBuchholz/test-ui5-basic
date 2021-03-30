@@ -1,0 +1,23 @@
+{
+  "name": "test-ui5-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "reserve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudBuchholz/test-ui5-basic.git"
+  },
+  "author": "Arnaud Buchholz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArnaudBuchholz/test-ui5-basic/issues"
+  },
+  "homepage": "https://github.com/ArnaudBuchholz/test-ui5-basic#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mime": "^2.5.2",
+    "reserve": "^1.11.1"
+  }
+}
