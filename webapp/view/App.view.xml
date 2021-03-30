@@ -1,0 +1,17 @@
+<mvc:View
+  controllerName="test.controller.App"
+  displayBlock="true"
+  xmlns="sap.m"
+  xmlns:mvc="sap.ui.core.mvc">
+  <App>
+    <Page id="page" title="Test App">
+      <Button
+        id="btnHello"
+        text="Hello"
+        press=".onHello"
+        type="Emphasized"
+        class="sapUiSmallMargin"
+      />
+    </Page>
+  </App>
+</mvc:View>
